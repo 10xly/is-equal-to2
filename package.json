@@ -1,0 +1,23 @@
+{
+  "name": "is-equal-to2",
+  "version": "1.0.0",
+  "description": "loose equality",
+  "keywords": [
+    "eq"
+  ],
+  "homepage": "https://github.com/10xly/is-equal-to2#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/is-equal-to2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/is-equal-to2.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

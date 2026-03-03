@@ -19,5 +19,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@10xly/eslint-config": "*",
+    "eslint": "latest"
   }
 }
